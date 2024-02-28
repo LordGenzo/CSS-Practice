@@ -1,0 +1,19 @@
+.Odd {
+    background-color: rgb(255, 204, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Second {
+    color: blue;
+    font-size: 36px;
+}
+
+.Third {
+    font-size: 24px;
+}
+
+#Forth {
+    background-color: rgb(204, 255, 204);
+    font-size: 24px;
+    font-weight: bold;
+}
